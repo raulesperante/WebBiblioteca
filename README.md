@@ -2,7 +2,7 @@ Así se ve la aplicación web.
 
 El proyecto fue creado con Netbeans
 
-(https://github.com/raulesperante/WebBiblioteca/blob/master/imagen1.png)
-(https://github.com/raulesperante/WebBiblioteca/blob/master/imagen2.png)
-(https://github.com/raulesperante/WebBiblioteca/blob/master/imagen3.png)
-(https://github.com/raulesperante/WebBiblioteca/blob/master/imagen4.png)
+![Imagen: imagen1](https://github.com/raulesperante/WebBiblioteca/blob/master/imagen1.png)
+![Imagen: imagen2](https://github.com/raulesperante/WebBiblioteca/blob/master/imagen2.png)
+![Imagen: imagen3](https://github.com/raulesperante/WebBiblioteca/blob/master/imagen3.png)
+![Imagen: imagen4](https://github.com/raulesperante/WebBiblioteca/blob/master/imagen4.png)
