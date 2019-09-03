@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/dao/CategoriaDAO.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/controller/EditorialControl.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/web/registroLibro.jsp</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/web/registroCategoria.jsp</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/controller/LibroControl.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/dao/LibroDAO.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/web/registroEditorial.jsp</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/controller/CategoriaControl.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/model/Libro.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/model/Editorial.java</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/web/listarLibros.jsp</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/web/index.jsp</file>
+            <file>file:/C:/Users/raul/Documents/NetBeansProjects/WebBiblioteca/src/java/dao/EditorialDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
